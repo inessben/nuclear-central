@@ -20,7 +20,7 @@ gltfLoader.setDRACOLoader(dracoLoader)
 let smokeStacks
 gltfLoader.load
 (
-    'sources/glb/smokestacks.glb',
+    '/glb/smokestacks.glb',
     (gltf) => 
     {
         smokeStacks = gltf.scene
@@ -43,7 +43,7 @@ gltfLoader.load
 let car
 gltfLoader.load
 (
-    'sources/glb/car.glb',
+    '/glb/car.glb',
     (gltf) => 
     {
         car = gltf.scene
@@ -66,7 +66,7 @@ gltfLoader.load
 let radioTower
 gltfLoader.load
 (
-    'sources/glb/radio-tower.glb',
+    '/glb/radio-tower.glb',
     (gltf) => 
     {
         radioTower = gltf.scene
@@ -89,7 +89,7 @@ gltfLoader.load
 let radioTowerTwo
 gltfLoader.load
 (
-    'sources/glb/radio-tower.glb',
+    '/glb/radio-tower.glb',
     (gltf) => 
     {
         radioTowerTwo = gltf.scene
@@ -112,7 +112,7 @@ gltfLoader.load
 let fence
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fence = gltf.scene
@@ -136,7 +136,7 @@ gltfLoader.load
 let fenceTwo
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceTwo = gltf.scene
@@ -160,7 +160,7 @@ gltfLoader.load
 let fenceThree
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceThree = gltf.scene
@@ -184,7 +184,7 @@ gltfLoader.load
 let fenceFour
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceFour = gltf.scene
@@ -208,7 +208,7 @@ gltfLoader.load
 let fenceFive
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceFive = gltf.scene
@@ -232,7 +232,7 @@ gltfLoader.load
 let fenceSix
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceSix = gltf.scene
@@ -256,7 +256,7 @@ gltfLoader.load
 let fenceSeven
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceSeven = gltf.scene
@@ -280,7 +280,7 @@ gltfLoader.load
 let fenceEight
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceEight = gltf.scene
@@ -304,7 +304,7 @@ gltfLoader.load
 let fenceNine
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceNine = gltf.scene
@@ -328,7 +328,7 @@ gltfLoader.load
 let fenceTen
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceTen = gltf.scene
@@ -352,7 +352,7 @@ gltfLoader.load
 let fenceEleven
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceEleven = gltf.scene
@@ -376,7 +376,7 @@ gltfLoader.load
 let fenceTwelve
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceTwelve = gltf.scene
@@ -400,7 +400,7 @@ gltfLoader.load
 let fenceThirteen
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceThirteen = gltf.scene
@@ -424,7 +424,7 @@ gltfLoader.load
 let fenceFourteen
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceFourteen = gltf.scene
@@ -448,7 +448,7 @@ gltfLoader.load
 let fenceFiveteen
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceFiveteen = gltf.scene
@@ -471,7 +471,7 @@ gltfLoader.load
 let fenceSixteen
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceSixteen = gltf.scene
@@ -494,7 +494,7 @@ gltfLoader.load
 let fenceSeventeen
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceSeventeen = gltf.scene
@@ -517,7 +517,7 @@ gltfLoader.load
 let fenceEighteen
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceEighteen = gltf.scene
@@ -540,7 +540,7 @@ gltfLoader.load
 let fenceNineteen
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceNineteen = gltf.scene
@@ -563,7 +563,7 @@ gltfLoader.load
 let fenceTwenty
 gltfLoader.load
 (
-    'sources/glb/fence.glb',
+    '/glb/fence.glb',
     (gltf) => 
     {
         fenceTwenty = gltf.scene
@@ -657,12 +657,10 @@ scene.add(nuclearCentral)
 const textureLoader = new THREE.TextureLoader()
 // 
 // // sidewalk's texture
-const granularTexture = textureLoader.load('./sources/ressources/floor.jpg')
+const granularTexture = textureLoader.load('./ressources/floor.jpg')
 // // box's texture
-const metalTexture = textureLoader.load('./sources/ressources/metal.jpg')
-// // smoke's texture
-const smokedTexture = textureLoader.load('./sources/ressources/smoke.jpg')
-//
+const metalTexture = textureLoader.load('./ressources/metal.jpg')
+
 // base //
 const base = new THREE.Mesh
 (
@@ -767,7 +765,7 @@ let nText = 'NUCLEAR'
 let pText = 'POWER PLANT'
 // text on sign //
 const fontLoader = new FontLoader()
-fontLoader.load('./sources/ressources/oswald.json', ( oswald ) => {
+fontLoader.load('./ressources/oswald.json', ( oswald ) => {
         const sGeometry = new TextGeometry (sText, {
             font: oswald,
             height: 0.15,
