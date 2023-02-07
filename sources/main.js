@@ -20,7 +20,7 @@ gltfLoader.setDRACOLoader(dracoLoader)
 let smokeStacks
 gltfLoader.load
 (
-    './glb/smokestacks.glb',
+    'sources/glb/smokestacks.glb',
     (gltf) => 
     {
         smokeStacks = gltf.scene
