@@ -1,7 +1,6 @@
 <<<<<<< HEAD
-# space
-a simple homework
-=======
+<<<<<<< HEAD
+
 # nuclear-central
 just a homework
->>>>>>> b374b8e6b1186597d68d9be0180d465689f1c622
+>>>>>>> ae9a22c138e95a614dee574171542f6a15605e8c
